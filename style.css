@@ -1,0 +1,90 @@
+body {
+	font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "sans-serif";
+	background-color: #EEEEEE;
+}
+
+#toparea {
+	width: 100%;
+	background-color: #000000;
+}
+
+#header {
+	background-color: #000000;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+.title {
+	float: left;
+	width: 250px;
+	font-size: 150%;
+	font-weight: 700;
+	color; #FFFFFF;
+}
+
+.menu {
+	float: right;
+	width: 500px;
+	text-align: right;
+}
+
+.menu li {
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+	list-style-type:none;
+}
+
+#contents {
+	clear: both;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+
+#bottom {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;	
+	margin-top: 40px;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 80%;
+	font-weight: 400;
+	color: #555555;
+}
+
+h1 {
+	font-size: 150%;
+	font-weight:700;
+	margin-left: 0px;
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-size: 120%;
+	font-weight:700;
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-size: 100%;
+	font-weight:400;
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+p {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
